@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Davi de Jesus  
 
-## 🐍 Desenvolvedor Full-Stack em desenvolvimento...
+## 🐍 Desenvolvedor Web FullStack em formação...
 
 💡 Desenvolvedor apaixonado por tecnologia com foco em **soluções práticas e eficientes**. Tenho experiência em **automação, desenvolvimento web, jogos educativos e integração com APIs**. Sempre buscando novos desafios e compartilhando conhecimento com a comunidade tech.  
 
