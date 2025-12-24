@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Davi de Jesus  
+# 👋 Olá, eu sou Davi de Jesus  
 
 ## 🐍 Desenvolvedor Full-Stack | Especialista em Python & JavaScript  
 
