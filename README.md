@@ -136,8 +136,7 @@ Se algum projeto te ajudou ou inspirou, deixar uma **star** no repositório ajud
 ## 📫 Conecte-se Comigo  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidejesus)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdavidejesus)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devdavidejesus.github.io/sera-defender/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdavidejesus)   
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)  
 [![Linktree](https://img.shields.io/badge/Todos_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devdavidejesus)  
 
