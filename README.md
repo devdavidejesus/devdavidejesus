@@ -27,7 +27,7 @@ Bot automático para **monitoramento em tempo real** da HypersDAO com relatório
 - **Status:** ✅ Completo  
 
 ### 🎮 [Jogo do NIM](https://github.com/devdavidejesus/Jogo-do-NIM)  
-Projeto acadêmico IME/USP - **Implementação do clássico jogo de estratégia matemática**  
+ **Implementação do clássico jogo de estratégia matemática** - Projeto acadêmico IME/USP -
 - **Tecnologias:** Python, Lógica de Jogos, Algoritmos  
 - **Status:** ✅ Completo  
 
