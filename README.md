@@ -64,41 +64,21 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 
 ---
 
-## 📊 Estatísticas do GitHub
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&langs_count=7&theme=radical&hide_border=true"/>  
+</div>  
+<div align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdavidejesus&theme=radical&hide_border=true" alt="GitHub Streak Stats" />  
+</div>  
+<!-- Estatísticas adicionais - descomente se desejar usar:
+<div align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=github&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%"/>  
+</div>  
 
-<div align="center">
-
-<!-- Cards principais -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
----
-
-### 🚀 Streak & Atividade Recente
-
-<img height="170em" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=00000000"/>
-
----
-
-### 📈 Histórico de Contribuição
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=9f9f9f&line=00eaff&point=f20089&area=true&hide_border=true)
-
----
-
-### 🏆 Troféus de Perfil
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onestar&no-bg=true&no-frame=true&row=1"/>
-
----
-
-### ⚙️ Tecnologias & Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+<div align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="95%"/>  
+</div>-->
 
 ---
 
