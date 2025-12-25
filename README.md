@@ -1,102 +1,145 @@
-## 📊 GitHub Analytics & Performance Metrics  
+# 👋 Olá, eu sou Davi de Jesus  
 
-### 🎯 Overview de Contribuições
+## 🐍 Desenvolvedor Web FullStack em formação...
 
-<div align="center">
+💡 Desenvolvedor apaixonado por tecnologia com foco em **soluções práticas e eficientes**. Tenho experiência em **automação, desenvolvimento web, jogos educativos e integração com APIs**. Sempre buscando novos desafios e compartilhando conhecimento com a comunidade tech.  
+
+**🌐 Portfólio Online:** [devdavidejesus.github.io/sera-defender/](https://devdavidejesus.github.io/sera-defender/)  
+
+---
+
+## 🚀 Projetos em Destaque  
+
+### 🎮 [SERA Defender - New Shepard Mission](https://devdavidejesus.github.io/sera-defender/)  
+**Jogo arcade retrô completo** desenvolvido com HTML5 Canvas e JavaScript puro  
+- **Tecnologias:** JavaScript (ES6+), HTML5 Canvas, CSS3 Animations  
+- **Recursos:** Sistema de missões, chefão com IA, Easter egg (Konami Code), replay automático  
+- **Status:** ✅ Completo | 🎮 [Jogar Agora](https://devdavidejesus.github.io/sera-defender/)
+
+### 📈 Métricas do Projeto SERA Defender
+![GitHub Stars](https://img.shields.io/github/stars/devdavidejesus/sera-defender?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/devdavidejesus/sera-defender?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/devdavidejesus/sera-defender?style=for-the-badge)
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
-  </picture>
+### 🤖 [HypersDAO Telegram Bot](https://github.com/devdavidejesus/hypersdao-telegram-bot)  
+Bot automático para **monitoramento em tempo real** da HypersDAO com relatórios via Telegram  
+- **Tecnologias:** Python, Telegram Bot API, DexScreener API, Web3  
+- **Status:** ✅ Completo  
 
-</div>
+### 🎮 [Jogo do NIM](https://github.com/devdavidejesus/Jogo-do-NIM)  
+**Implementação do clássico jogo de estratégia matemática** - Projeto acadêmico IME/USP  
+- **Tecnologias:** Python, Lógica de Jogos, Algoritmos  
+- **Status:** ✅ Completo  
 
----
-
-### 🔥 Streak & Consistência de Commits
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=devdavidejesus&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdavidejesus&theme=radical&hide_border=true" alt="GitHub Streak" width="60%"/>
-  </picture>
-</div>
+### 🔍 [Detector Coh-Piah](https://github.com/devdavidejesus/detector-cohpiah-python)  
+Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/USP  
+- **Tecnologias:** Python, Processamento de Linguagem Natural, Análise de Texto  
+- **Status:** ✅ Completo  
 
 ---
 
-### 📈 Contribution Graph - Atividade Anual
+## 🛠️ Stack Tecnológico  
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=react-dark&hide_border=true&area=true&custom_title=Contribuição%20dos%20Últimos%2012%20Meses" alt="Contribution Graph" width="95%"/>
-  </picture>
-</div>
+### **Linguagens Principais:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### **Frameworks & Bibliotecas:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🏆 Conquistas & Troféus Desbloqueados
+### **Blockchain & Web3:**  
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="90%"/>
-  </picture>
-</div>
-
----
-
-### 💻 Código em Ação - Métricas Detalhadas
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#1f6feb'}}}%%
-pie title Distribuição de Linguagens (Projetos Ativos)
-    "JavaScript" : 35
-    "Python" : 40
-    "HTML/CSS" : 15
-    "Outros" : 10
-```
-
-</div>
+### **Ferramentas & Plataformas:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
 
-### 📊 Perfil de Atividade Semanal
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdavidejesus&theme=github_dark" alt="Profile Summary" width="95%"/>
-</div>
-
----
-
-### ⚡ Quick Stats - Performance Snapshot
+## 📊 GitHub Analytics & Insights  
 
 <div align="center">
 
-| Métrica | Valor |
-|---------|-------|
-| 🎯 **Commits Totais** | ![Commits](https://img.shields.io/badge/dynamic/json?color=1f6feb&label=Total&query=%24.total_commits&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdevdavidejesus&style=for-the-badge&logo=github) |
-| ⭐ **Stars Recebidas** | ![Stars](https://img.shields.io/github/stars/devdavidejesus?style=for-the-badge&color=yellow&logo=github) |
-| 👥 **Seguidores** | ![Followers](https://img.shields.io/github/followers/devdavidejesus?style=for-the-badge&color=1f6feb&logo=github) |
-| 📦 **Repositórios Públicos** | ![Repos](https://img.shields.io/badge/dynamic/json?color=success&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdevdavidejesus&style=for-the-badge&logo=github) |
+### 📈 Performance Overview
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🎨 Visualizador de Perfil 3D (Opcional)
-  
-  [![](https://raw.githubusercontent.com/devdavidejesus/devdavidejesus/output/github-contribution-grid-snake-dark.svg)](https://github.com/devdavidejesus)
-  
-  <sub>*Animação das contribuições - atualizada automaticamente*</sub>
+
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdavidejesus&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" alt="GitHub Streak" width="55%"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### 📉 Activity Timeline - Last 12 Months
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="90%"/>
+
+</div>
+
+---  
+
+## 💡 Filosofia de Desenvolvimento  
+
+> **"Transformo desafios em código limpo e funcional. Sem complicar o que pode ser simples."**  
+
+**Princípios que sigo:**  
+- ✅ **Código Limpo**: Legibilidade e manutenibilidade acima de tudo  
+- 🔄 **Modularidade**: Componentes reutilizáveis e desacoplados  
+- ⚡ **Performance**: Otimização consciente sem over-engineering  
+- 🧪 **Testes**: Confiabilidade através de testes automatizados  
+- 📚 **Documentação**: Código auto-explicativo e docs atualizados  
+
+---  
+
+## 🤝 Vamos Colaborar?  
+
+💬 **Estou sempre aberto a:**  
+- Colaborações em **projetos open-source**  
+- **Desafios técnicos** interessantes  
+- **Troca de conhecimento** com a comunidade  
+- **Feedback construtivo** sobre meus projetos  
+
+⭐ **Apoie meus projetos:**  
+Se algum projeto te ajudou ou inspirou, deixar uma **star** no repositório ajuda muito a aumentar a visibilidade!  
+
+---  
+
+## 📫 Conecte-se Comigo  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidejesus)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdavidejesus)   
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)  
+[![Linktree](https://img.shields.io/badge/Todos_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devdavidejesus)  
+
+---
+
+*Última atualização: Dezembro 2025*
