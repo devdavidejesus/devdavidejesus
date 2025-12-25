@@ -69,8 +69,12 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 ### 📈 Visão Geral de Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <a href="https://github.com/devdavidejesus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&cache_seconds=1800"/>
+  </a>
+  <a href="https://github.com/devdavidejesus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800"/>
+  </a>
 </div>
 
 ---
@@ -78,7 +82,9 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 ### 🔥 Sequência de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdavidejesus&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" alt="Sequência de Commits" width="55%"/>
+  <a href="https://github.com/devdavidejesus">
+    <img src="https://streak-stats.demolab.com/?user=devdavidejesus&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" alt="Sequência de Commits" width="55%"/>
+  </a>
 </div>
 
 ---
@@ -86,7 +92,9 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 ### 📉 Linha do Tempo de Atividades - Últimos 12 Meses
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Gráfico de Contribuições" width="95%"/>
+  <a href="https://github.com/devdavidejesus">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Gráfico de Contribuições" width="95%"/>
+  </a>
 </div>
 
 ---
@@ -94,7 +102,9 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 ### 🏆 Conquistas no GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="Troféus do GitHub" width="90%"/>
+  <a href="https://github.com/devdavidejesus">
+    <img src="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="Troféus do GitHub" width="90%"/>
+  </a>
 </div>
 
 ---  
