@@ -2,7 +2,7 @@
 
 ## 🐍 Desenvolvedor Web FullStack em formação...
 
-💡 Desenvolvedor apaixonado por tecnologia com foco em **soluções práticas e eficientes**. Tenho experiência em **automação, desenvolvimento web, jogos educativos e integração com APIs**. Sempre buscando novos desafios e compartilhando conhecimento com a comunidade tech.  
+💡 Desenvolvedor apaixonado por tecnologia com foco em **soluções práticas e eficientes**. Tenho experiência em **automação, desenvolvimento web, jogos educativos e integração com APIs**. Sempre buscando novos desafios e compartilhando conhecimento com a comunidade tech.
 
 **🌐 Portfólio Online:** [devdavidejesus.github.io/sera-defender/](https://devdavidejesus.github.io/sera-defender/)  
 
@@ -16,7 +16,7 @@
 - **Recursos:** Sistema de missões, chefão com IA, Easter egg (Konami Code), replay automático  
 - **Status:** ✅ Completo | 🎮 [Jogar Agora](https://devdavidejesus.github.io/sera-defender/)
 
-### 📈 Métricas do Projeto SERA Defender
+### 📈 Métricas do Projeto SERA Defender  
 ![GitHub Stars](https://img.shields.io/github/stars/devdavidejesus/sera-defender?style=for-the-badge)
 ![GitHub Forks](https://img.shields.io/github/forks/devdavidejesus/sera-defender?style=for-the-badge)
 ![GitHub Issues](https://img.shields.io/github/issues/devdavidejesus/sera-defender?style=for-the-badge)
@@ -27,7 +27,7 @@ Bot automático para **monitoramento em tempo real** da HypersDAO com relatório
 - **Status:** ✅ Completo  
 
 ### 🎮 [Jogo do NIM](https://github.com/devdavidejesus/Jogo-do-NIM)  
- **Implementação do clássico jogo de estratégia matemática** - Projeto acadêmico IME/USP -
+**Implementação do clássico jogo de estratégia matemática** - Projeto acadêmico IME/USP  
 - **Tecnologias:** Python, Lógica de Jogos, Algoritmos  
 - **Status:** ✅ Completo  
 
@@ -67,23 +67,23 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&langs_count=7&theme=radical&hide_border=true"/>  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=radical&hide_border=true"/>  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&theme=radical&hide_border=true"/>  
 </div>  
 
 <div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdavidejesus&theme=radical&hide_border=true" alt="GitHub Streak Stats" />  
+  <img src="https://streak-stats.demolab.com?user=devdavidejesus&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>  
 </div>  
 
 <div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=github&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%"/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%"/>  
 </div>  
 
 <div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="95%"/>  
+  <img src="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="95%"/>  
 </div>  
 
----  
+---
 
 ## 💡 Filosofia de Desenvolvimento  
 
@@ -96,7 +96,7 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 - 🧪 **Testes**: Confiabilidade através de testes automatizados  
 - 📚 **Documentação**: Código auto-explicativo e docs atualizados  
 
----  
+---
 
 ## 🤝 Vamos Colaborar?  
 
@@ -109,12 +109,12 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 ⭐ **Apoie meus projetos:**  
 Se algum projeto te ajudou ou inspirou, deixar uma **star** no repositório ajuda muito a aumentar a visibilidade!  
 
----  
+---
 
 ## 📫 Conecte-se Comigo  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidejesus)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdavidejesus)   
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdavidejesus)  
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)  
 [![Linktree](https://img.shields.io/badge/Todos_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devdavidejesus)  
 
