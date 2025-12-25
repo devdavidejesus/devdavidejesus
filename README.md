@@ -64,45 +64,37 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 
 ---
 
-## 📊 GitHub Analytics & Insights  
+## 📊 Estatísticas e Análises do GitHub  
+
+### 📈 Visão Geral de Performance
 
 <div align="center">
-
-### 📈 Performance Overview
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 ---
 
+### 🔥 Sequência de Contribuições
+
 <div align="center">
-
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdavidejesus&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" alt="GitHub Streak" width="55%"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdavidejesus&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" alt="Sequência de Commits" width="55%"/>
 </div>
 
 ---
 
+### 📉 Linha do Tempo de Atividades - Últimos 12 Meses
+
 <div align="center">
-
-### 📉 Activity Timeline - Last 12 Months
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Contribution Graph" width="95%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Gráfico de Contribuições" width="95%"/>
 </div>
 
 ---
 
+### 🏆 Conquistas no GitHub
+
 <div align="center">
-
-### 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="90%"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="Troféus do GitHub" width="90%"/>
 </div>
 
 ---  
