@@ -87,7 +87,7 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 
 ## 💡 Filosofia de Desenvolvimento  
 
-> **"Transformo problemas complexos em soluções elegantes através de código limpo, arquitetura modular e automação inteligente."**  
+> **"Transformo desafios em código limpo e funcional. Sem complicar o que pode ser simples."**  
 
 **Princípios que sigo:**  
 - ✅ **Código Limpo**: Legibilidade e manutenibilidade acima de tudo  
@@ -95,28 +95,6 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 - ⚡ **Performance**: Otimização consciente sem over-engineering  
 - 🧪 **Testes**: Confiabilidade através de testes automatizados  
 - 📚 **Documentação**: Código auto-explicativo e docs atualizados  
-
-**Áreas de Interesse:**  
-- 🤖 **Automação & Scripting** - Python para automatizar tarefas repetitivas  
-- 🎮 **Desenvolvimento de Jogos** - Experiências interativas e educativas  
-- 🔗 **Blockchain & Web3** - Integração com tecnologias descentralizadas  
-- 🎨 **UI/UX Responsiva** - Interfaces intuitivas e acessíveis  
-
----  
-
-## 🏆 Conquistas Recentes  
-
-### 🚀 **SERA Defender - Projeto Completo**
-- Jogo publicado com **GitHub Pages** (demo online)
-- Sistema completo com **missões, chefão e Easter egg**
-- **100% JavaScript puro** - sem bibliotecas externas
-- Interface **totalmente responsiva**
-
-### 📈 **Crescimento Técnico**
-- Transição de **Python puro** para **Full-Stack**
-- Domínio de **HTML5 Canvas** para gráficos complexos
-- Implementação de **sistemas de jogo completos**
-- Publicação profissional no **GitHub**
 
 ---  
 
@@ -139,14 +117,6 @@ Se algum projeto te ajudou ou inspirou, deixar uma **star** no repositório ajud
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdavidejesus)   
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)  
 [![Linktree](https://img.shields.io/badge/Todos_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devdavidejesus)  
-
----  
-
-## 🔗 Explore Meus Projetos  
-
-👉 **[Todos os repositórios](https://github.com/devdavidejesus?tab=repositories)**  
-👉 **[Projeto em Destaque - SERA Defender](https://devdavidejesus.github.io/sera-defender/)**  
-👉 **[Contribuições Open Source](https://github.com/devdavidejesus?tab=repositories&q=&type=source)**  
 
 ---
 
