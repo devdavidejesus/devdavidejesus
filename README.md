@@ -11,12 +11,6 @@
 ## 🚀 Projetos em Destaque  
 
 ### 🎮 [SERA Defender - New Shepard Mission](https://devdavidejesus.github.io/sera-defender/)  
-<div align="center">
-
-  <img src="SERADEFENDER .webp" alt="SERA Defender Logo" width="500">
-
-</div>
-
 **Jogo arcade retrô completo** desenvolvido com HTML5 Canvas e JavaScript puro  
 - **Tecnologias:** JavaScript (ES6+), HTML5 Canvas, CSS3 Animations  
 - **Recursos:** Sistema de missões, chefão com IA, Easter egg (Konami Code), replay automático  
@@ -68,21 +62,23 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
----
+--- 
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdavidejesus&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+| | |
+|:---:|:---:|
+| **Estatísticas Gerais** | **Linguagens Mais Usadas** |
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=dark&hide_border=true&include_all_commits=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&theme=dark&hide_border=true&langs_count=6) |
+| **Sequência de Contribuições** | **Gráfico de Atividade** |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com?user=devdavidejesus&theme=dark&hide_border=true) | ![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=github-dark&hide_border=true&area=true) |
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="90%"/>
+  
+**🏆 Conquistas do GitHub**
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=discord&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
+
 </div>
 
 ---  
