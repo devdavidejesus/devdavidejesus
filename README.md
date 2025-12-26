@@ -66,18 +66,10 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 
 ## 📊 Estatísticas do GitHub
 
-| | |
-|:---:|:---:|
-| **Estatísticas Gerais** | **Linguagens Mais Usadas** |
-| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=dark&hide_border=true&include_all_commits=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&theme=dark&hide_border=true&langs_count=6) |
-| **Sequência de Contribuições** | **Gráfico de Atividade** |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com?user=devdavidejesus&theme=dark&hide_border=true) | ![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=devdavidejesus&theme=github-dark&hide_border=true&area=true) |
-
 <div align="center">
-  
-**🏆 Conquistas do GitHub**
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=devdavidejesus&theme=discord&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
+
+![status](https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=github_dark&hide_border=true&card_width=450)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&theme=github_dark&hide_border=true&card_width=450)
 
 </div>
 
