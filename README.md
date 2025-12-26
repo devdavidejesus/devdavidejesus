@@ -85,13 +85,6 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 
 > **"Transformo desafios em código limpo e funcional. Sem complicar o que pode ser simples."**  
 
-**Princípios que sigo:**  
-- ✅ **Código Limpo**: Legibilidade e manutenibilidade acima de tudo  
-- 🔄 **Modularidade**: Componentes reutilizáveis e desacoplados  
-- ⚡ **Performance**: Otimização consciente sem over-engineering  
-- 🧪 **Testes**: Confiabilidade através de testes automatizados  
-- 📚 **Documentação**: Código auto-explicativo e docs atualizados  
-
 ---  
 
 ## 🤝 Vamos Colaborar?  
