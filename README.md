@@ -11,6 +11,11 @@
 ## 🚀 Projetos em Destaque  
 
 ### 🎮 [SERA Defender - New Shepard Mission](https://devdavidejesus.github.io/sera-defender/)  
+<div align="center">
+
+  <img src="SERADEFENDER .webp" alt="SERA Defender Logo" width="500">
+
+</div>
 **Jogo arcade retrô completo** desenvolvido com HTML5 Canvas e JavaScript puro  
 - **Tecnologias:** JavaScript (ES6+), HTML5 Canvas, CSS3 Animations  
 - **Recursos:** Sistema de missões, chefão com IA, Easter egg (Konami Code), replay automático  
