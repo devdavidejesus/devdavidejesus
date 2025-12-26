@@ -73,8 +73,6 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 
 ---
 
----  
-
 ## 💡 Filosofia de Desenvolvimento  
 
 > **"Transformo desafios em código limpo e funcional. Sem complicar o que pode ser simples."**  
