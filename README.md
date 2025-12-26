@@ -66,12 +66,10 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-![status](https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=github_dark&hide_border=true&card_width=450)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&theme=github_dark&hide_border=true&card_width=450)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devdavidejesus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs">
+</p>
 
 ---  
 
