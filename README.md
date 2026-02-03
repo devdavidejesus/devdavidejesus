@@ -2,7 +2,7 @@
 
 ## 🐍 Desenvolvedor Web FullStack em formação...
 
-💡 Desenvolvedor apaixonado por tecnologia com foco em **soluções práticas e eficientes**. Tenho experiência em **automação, desenvolvimento web, jogos educativos e integração com APIs**. Sempre buscando novos desafios e compartilhando conhecimento com a comunidade tech.  
+💡 Desenvolvedor apaixonado por tecnologia com foco em **soluções práticas e eficientes**. Tenho experiência em **desenvolvimento web,automação, jogos educativos e integração com APIs**. Sempre buscando aprender.  
 
 **🌐 Portfólio Online:** [devdavidejesus.github.io/sera-defender/](https://devdavidejesus.github.io/sera-defender/)  
 
@@ -51,11 +51,6 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### **Blockchain & Web3:**  
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
 ### **Ferramentas & Plataformas:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -84,7 +79,6 @@ Sistema de **análise de assinaturas linguísticas** - Projeto acadêmico IME/US
 💬 **Estou sempre aberto a:**  
 - Colaborações em **projetos open-source**  
 - **Desafios técnicos** interessantes  
-- **Troca de conhecimento** com a comunidade  
 - **Feedback construtivo** sobre meus projetos  
 
 ⭐ **Apoie meus projetos:**  
@@ -101,4 +95,4 @@ Se algum projeto te ajudou ou inspirou, deixar uma **star** no repositório ajud
 
 ---
 
-*Última atualização: Dezembro 2025*
+*Última atualização: Fevereiro 2026*
