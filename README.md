@@ -15,17 +15,17 @@ Building practical backend solutions with clean code. Currently exploring the in
 
 ### About me
 
-- 🐍 Python developer specializing in **Django** and **Flask** for web backends, APIs, and automation
-- 🌐 Comfortable with **JavaScript, HTML & CSS** for frontend development
-- ⛓️ Contributing to the **Bitcoin** ecosystem — interested in protocol-level architecture (OP_RETURN, SegWit, Taproot)
-- 🎓 Python training through **IME-USP** · Currently studying **FullStack Development** at **SENAI**
-- 🧠 Philosophy: ***"Don't Trust, Verify"***
+- Python developer specializing in **Django** and **Flask** for web backends, APIs, and automation
+- Comfortable with **JavaScript, HTML & CSS** for frontend development
+- Contributing to the **Bitcoin** ecosystem — interested in protocol-level architecture (OP_RETURN, SegWit, Taproot)
+- Python training through **IME-USP** · Currently studying **FullStack Development** at **SENAI**
+- Philosophy: ***"Don't Trust, Verify"***
 
 ---
 
 ### Open-source contributions
 
-- 🟠 [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Reviewed and corrected 12 verified errors in the PT-BR Bitcoin whitepaper translation ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
+- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Reviewed and corrected 12 verified errors in the PT-BR Bitcoin whitepaper translation ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
 
 ---
 
@@ -54,9 +54,9 @@ Building practical backend solutions with clean code. Currently exploring the in
 
 ### Currently working on
 
-- 🛠️ Building open-source tools for the Bitcoin developer community
-- 📝 Publishing technical content about Bitcoin protocol architecture
-- 🤝 Contributing to Bitcoin open-source projects
+- ₿ Building [**btc-toolkit**](https://github.com/devdavidejesus/btc-toolkit) — Bitcoin CLI tools (OP_RETURN decoder, balance checker, fee estimator). Zero dependencies, no Bitcoin Core required.
+- Publishing technical content about Bitcoin protocol architecture
+- Contributing to Bitcoin open-source projects
 
 ---
 
