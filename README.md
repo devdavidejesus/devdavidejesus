@@ -66,7 +66,7 @@ Building practical backend solutions with clean code. Currently exploring the in
 
 ![GitHub Stats](https://github-readme-stats-chi-eight.vercel.app/api?username=devdavidejesus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats-chi-eight.vercel.app/api/top-langs/?username=devdavidejesus&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-chi-eight.vercel.app/api/top-langs/?username=devdavidejesus&layout=donut&theme=tokyonight&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/devdavidejesus/devdavidejesus/output/github-snake-dark.svg)
 
