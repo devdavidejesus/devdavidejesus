@@ -27,6 +27,7 @@ Building practical backend solutions with clean code. Currently exploring the in
 
 - ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Reviewed and corrected 12 verified errors in the PT-BR Bitcoin whitepaper translation ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
 - ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Reviewed and corrected 13 verified errors in the PT (European Portuguese) Bitcoin whitepaper translation ([Issue #4656](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4656) · [PR #4657](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4657))
+- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Reviewed and corrected 14 verified errors in the PT-BR website translation (`_translations/pt_BR.yml`) ([Issue #4658](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4658) · [PR #4659](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4659))
 
 ---
 
