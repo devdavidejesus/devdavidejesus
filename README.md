@@ -7,6 +7,7 @@
 Building practical backend solutions with clean code. Currently exploring the intersection of web development and the Bitcoin protocol stack.
 
 [![Linktree](https://img.shields.io/badge/Links-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/0xdavidejesus)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xdavidejesus)
 [![ProtonMail](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)
 
 </div>
@@ -19,19 +20,41 @@ Building practical backend solutions with clean code. Currently exploring the in
 - Comfortable with **JavaScript, HTML & CSS** for frontend development
 - Contributing to the **Bitcoin** ecosystem — interested in protocol-level architecture (OP_RETURN, SegWit, Taproot)
 - Python training through **IME-USP** · Currently studying **FullStack Development** at **SENAI**
-- Philosophy: ***"Don't Trust, Verify"***
+- Approach: evidence-based contributions, verifiable sources, code-first verification
+
+---
+
+### Currently working on
+
+- ₿ Active wallet section audit at [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — verifying listings against primary sources and proposing evidence-based updates
+- ₿ Developing [**btc-toolkit**](https://github.com/devdavidejesus/btc-toolkit) — Bitcoin CLI tools (OP_RETURN decoder, balance checker, fee estimator). Zero dependencies, no Bitcoin Core required. Phase 1 shipped; Phase 2 in planning.
+- Publishing technical content about Bitcoin protocol architecture
 
 ---
 
 ### Open-source contributions
 
+**Documentation & translation**
+
 - ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Reviewed and corrected 12 verified errors in the PT-BR Bitcoin whitepaper translation ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
 - ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Reviewed and corrected 13 verified errors in the PT (European Portuguese) Bitcoin whitepaper translation ([Issue #4656](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4656) · [PR #4657](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4657))
 - ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Reviewed and corrected 14 verified errors in the PT-BR website translation (`_translations/pt_BR.yml`) ([Issue #4658](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4658) · [PR #4659](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4659))
 
+**Wallet section audit — April 2026**
+
+- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Conducted a complete audit of all 27 listed wallets against primary sources (manufacturer announcements, app stores, repository activity). Identified discontinuations, outdated repository links, broken distribution links, and a missing Lightning wallet category ([Issue #4662](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4662))
+- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Documented BitPay wallet listing discrepancy: source repository inactive since 2024, product evolved to mobile-only, download page returns 404 ([Issue #4669](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4669))
+- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Documented Bitcoin Wallet (Schildbach) distribution discrepancy: Google Play link returns 404 while the app remains actively maintained on F-Droid (v10.26, March 2025) ([Issue #4670](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4670))
+
+**Infrastructure**
+
+- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Updated outdated `_config.yml` variables to reflect April 2026 blockchain state, including `bitcoin_datadir_gb` (350 → 733GB per YCharts data) ([PR #4668](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4668))
+
 ---
 
 ### Tech stack
+
+![Bitcoin Ecosystem](https://img.shields.io/badge/Bitcoin_Ecosystem-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 **Core — Python ecosystem**
 
@@ -50,15 +73,6 @@ Building practical backend solutions with clean code. Currently exploring the in
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-
----
-
-### Currently working on
-
-- ₿ Building [**btc-toolkit**](https://github.com/devdavidejesus/btc-toolkit) — Bitcoin CLI tools (OP_RETURN decoder, balance checker, fee estimator). Zero dependencies, no Bitcoin Core required.
-- Publishing technical content about Bitcoin protocol architecture
-- Contributing to Bitcoin open-source projects
 
 ---
 
@@ -76,6 +90,8 @@ Building practical backend solutions with clean code. Currently exploring the in
 
 ---
 
+*Last updated: April 2026*
+
 <div align="center">
 
 *"Don't Trust, Verify."*
@@ -83,3 +99,4 @@ Building practical backend solutions with clean code. Currently exploring the in
 ![Profile Views](https://komarev.com/ghpvc/?username=devdavidejesus&color=F7931A&style=flat-square&label=Profile+views)
 
 </div>
+
