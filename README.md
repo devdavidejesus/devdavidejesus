@@ -7,8 +7,7 @@
 Building practical backend solutions with clean code. Currently exploring the intersection of web development and the Bitcoin protocol stack.
 
 [![Linktree](https://img.shields.io/badge/Links-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/0xdavidejesus)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xdavidejesus)
-[![ProtonMail](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)
+
 
 </div>
 
