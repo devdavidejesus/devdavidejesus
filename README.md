@@ -41,9 +41,21 @@ Building practical backend solutions with clean code. Currently exploring the in
 
 **Wallet section audit — April 2026**
 
-- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Conducted a complete audit of all 27 listed wallets against primary sources (manufacturer announcements, app stores, repository activity). Identified discontinuations, outdated repository links, broken distribution links, and a missing Lightning wallet category ([Issue #4662](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4662))
-- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Documented BitPay wallet listing discrepancy: source repository inactive since 2024, product evolved to mobile-only, download page returns 404 ([Issue #4669](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4669))
-- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Documented Bitcoin Wallet (Schildbach) distribution discrepancy: Google Play link returns 404 while the app remains actively maintained on F-Droid (v10.26, March 2025) ([Issue #4670](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4670))
+- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Conducted a complete systematic audit of all 27 listed wallets against primary sources (manufacturer announcements, app stores, repository activity, official documentation). Published 11 evidence-based Issues covering discontinued hardware wallets, outdated repository links, 
+broken distribution links, rebranding updates, product splits, and configuration variables.([Master Issue #4662](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4662))
+
+Individual Issues: 
+[#4664](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4664) · 
+[#4665](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4665) · 
+[#4668](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4668) · 
+[#4669](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4669) · 
+[#4670](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4670) · 
+[#4672](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4672) · 
+[#4673](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4673) · 
+[#4674](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4674) · 
+[#4677](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4677) · 
+[#4681](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4681) · 
+[#4683](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4683)
 
 **Infrastructure**
 
