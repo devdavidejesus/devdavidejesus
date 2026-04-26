@@ -25,7 +25,7 @@ Building practical backend solutions with clean code. Currently exploring the in
 
 ### Currently working on
 
-- ₿ Active wallet section audit at [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — verifying listings against primary sources and proposing evidence-based updates
+- ₿ Quality Assurance Initiative at [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Systematic audit across multiple site sections: wallet listings (11 evidence-based issues opened), exchange listings ([Master Issue #4684](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4684)), and vocabulary glossary modernization ([Issue #4687](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4687)).
 - ₿ Developing [**btc-toolkit**](https://github.com/devdavidejesus/btc-toolkit) — Bitcoin CLI tools (OP_RETURN decoder, balance checker, fee estimator). Zero dependencies, no Bitcoin Core required. Phase 1 shipped; Phase 2 in planning.
 - Publishing technical content about Bitcoin protocol architecture
 
@@ -56,6 +56,11 @@ Individual Issues:
 [#4677](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4677) · 
 [#4681](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4681) · 
 [#4683](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4683)
+
+**Exchange listings audit & vocabulary modernization — April 2026 (open)**
+
+- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Opened systematic exchange listings audit ([Master Issue #4684](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4684)) with first PR removing itBit due to expired SSL (~22 months) and Paxos retail deprecation ([PR #4685](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4685))
+- ₿ [**bitcoin.org**](https://github.com/bitcoin-dot-org/Bitcoin.org) — Modernization of the vocabulary glossary: 4 factual corrections (hash rate scale outdated by 8 orders of magnitude, private key storage methods, address reuse, $1000 USD threshold) and 9 new core terms (Satoshi, Node, Recovery Phrase, UTXO, Transaction Fee, Halving, SegWit, Taproot, Lightning Network) ([Issue #4687](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4687) · [PR #4688](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4688))
 
 **Infrastructure**
 
@@ -101,7 +106,7 @@ Individual Issues:
 
 ---
 
-*Last updated: April 2026*
+*Last updated: April 26, 2026*
 
 <div align="center">
 
