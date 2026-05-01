@@ -18,7 +18,6 @@ Building practical backend solutions with clean code. Currently exploring the in
 - Python developer specializing in **Django** and **Flask** for web backends, APIs, and automation
 - Comfortable with **JavaScript, HTML & CSS** for frontend development
 - Contributing to the **Bitcoin** ecosystem — interested in protocol-level architecture (OP_RETURN, SegWit, Taproot)
-- Python training through **IME-USP** · Currently studying **FullStack Development** at **SENAI**
 - Approach: evidence-based contributions, verifiable sources, code-first verification
 
 ---
