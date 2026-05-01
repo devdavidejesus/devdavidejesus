@@ -54,7 +54,7 @@ A Bitcoin tooling project designed around two principles: **zero external depend
 
 **Translations**
 
-- ₿ PT-BR Bitcoin whitepaper — 12 verified errors corrected; updates applied to the site by maintainer @Cobra-Bitcoin ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
+- ₿ PT-BR Bitcoin whitepaper — 12 verified errors corrected; updates applied to the site by maintainer Cobra ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
 - ₿ PT-BR website translation (`_translations/pt_BR.yml`) — 14 verified errors corrected ([Issue #4658](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4658) · [PR #4659](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4659) — **merged**)
 - ₿ PT (European Portuguese) Bitcoin whitepaper — 13 verified errors documented for review ([Issue #4656](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4656) · [PR #4657](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4657))
 
