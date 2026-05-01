@@ -8,7 +8,7 @@ Building practical backend solutions with clean code. Currently exploring the in
 
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xdavidejesus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidejesus)
-[![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)
+[![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:devdavidejesus@proton.me)
 
 </div>
 
@@ -54,13 +54,13 @@ A Bitcoin tooling project designed around two principles: **zero external depend
 
 **Translations**
 
-- ₿ PT-BR Bitcoin whitepaper — 12 verified errors corrected; updates applied to the site by maintainer Cobra ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
+- ₿ PT-BR Bitcoin whitepaper — 12 verified errors corrected; updates applied to the site by maintainer @Cobra-Bitcoin ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
 - ₿ PT-BR website translation (`_translations/pt_BR.yml`) — 14 verified errors corrected ([Issue #4658](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4658) · [PR #4659](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4659) — **merged**)
 - ₿ PT (European Portuguese) Bitcoin whitepaper — 13 verified errors documented for review ([Issue #4656](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4656) · [PR #4657](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4657))
 
 **Wallet section audit — April 2026**
 
-- ₿ Conducted a systematic audit of all 27 listed wallets against primary sources (manufacturer announcements, app stores, repository activity, official documentation). Published 12 evidence-based Issues covering discontinued hardware wallets, outdated repository links, broken distribution links, rebranding updates, product splits, and configuration variables ([Master Issue #4662](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4662))
+- ₿ Conducted a systematic audit of all 27 listed wallets against primary sources (manufacturer announcements, app stores, repository activity, official documentation). Published 13 evidence-based Issues covering discontinued hardware wallets, outdated repository links, broken distribution links, rebranding updates, product splits, and configuration variables ([Master Issue #4662](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4662))
 
 Individual Issues: 
 [#4664](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4664) · 
@@ -74,7 +74,8 @@ Individual Issues:
 [#4677](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4677) · 
 [#4681](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4681) · 
 [#4683](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4683) · 
-[#4702](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4702)
+[#4702](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4702) · 
+[#4703](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4703)
 
 **Exchange listings audit — April 2026**
 
@@ -137,7 +138,6 @@ Pull Requests:
 ![Top Languages](https://github-readme-stats-chi-eight.vercel.app/api/top-langs/?username=devdavidejesus&layout=donut&theme=tokyonight&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/devdavidejesus/devdavidejesus/output/github-snake-dark.svg)
-
 
 </div>
 
