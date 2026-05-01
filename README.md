@@ -136,6 +136,9 @@ Pull Requests:
 
 ![Top Languages](https://github-readme-stats-chi-eight.vercel.app/api/top-langs/?username=devdavidejesus&layout=donut&theme=tokyonight&hide_border=true)
 
+![Snake animation](https://raw.githubusercontent.com/devdavidejesus/devdavidejesus/output/github-snake-dark.svg)
+
+
 </div>
 
 ---
