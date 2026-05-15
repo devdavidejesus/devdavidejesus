@@ -26,7 +26,7 @@ Building practical backend solutions with clean code. Currently exploring the in
 
 ### Currently working on
 
-- ₿ **Quality Assurance Initiative at [bitcoin.org](https://github.com/bitcoin-dot-org/Bitcoin.org)** — Systematic audits across multiple site sections: wallet listings, exchange listings, vocabulary glossary, and scams page. All findings backed by primary sources and reproducible verification scripts.
+- ₿ **Quality Assurance Initiative at [bitcoin.org](https://github.com/bitcoin-dot-org/Bitcoin.org)** — Systematic audits across multiple site sections: wallet listings, exchange listings, vocabulary glossary, scams page, Bitcoin Core release tracking, and formal wallet reviews. All findings backed by primary sources and reproducible verification scripts.
 - ₿ **Developing [btc-toolkit](https://github.com/devdavidejesus/btc-toolkit)** — A growing collection of Bitcoin CLI tools written in pure Python. Zero external dependencies, no Bitcoin Core required. Phase 1 (OP_RETURN decoder) shipped; Phase 2 (Address Balance Checker) in planning.
 
 ---
@@ -83,25 +83,41 @@ Individual Issues:
 
 Pull Requests:
 [#4685](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4685) (itBit — **merged**) · 
-[#4690](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4690) (Coinfloor) · 
+[#4690](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4690) (Coinfloor — **merged**) · 
 [#4691](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4691) (Coinberry) · 
-[#4692](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4692) (CoinSmart) · 
-[#4693](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4693) (Bitvo) · 
-[#4694](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4694) (AnyCoin Direct) · 
-[#4699](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4699) (Egera) · 
-[#4700](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4700) (Bitybank rebrand)
+[#4692](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4692) (CoinSmart — **merged**) · 
+[#4693](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4693) (Bitvo — **merged**) · 
+[#4694](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4694) (AnyCoin Direct — **merged**) · 
+[#4699](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4699) (Egera — **merged**) · 
+[#4700](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4700) (Bitybank rebrand — **merged**)
+
+**Round 2** in planning: additional stale exchange listings identified for review ([Issue #4715](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4715))
+
+**Wallet listings & reviews**
+
+- ₿ Formal review of BlueWallet against current listing criteria, following the project's established review template ([PR #4679 comment](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4679))
+- ₿ Technical analysis of BULL by Bull Bitcoin against historical policy on sidechains and default-behavior evaluation ([PR #4555 comment](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4555))
+- ₿ Proposed addition of Phoenix wallet listing — hands-on iOS testing, full criteria audit ([PR #4714](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4714))
 
 **Vocabulary glossary modernization**
 
-- ₿ Modernization of the vocabulary glossary: 4 factual corrections (hash rate scale, private key storage methods, address reuse, USD threshold) and 9 new core terms (Satoshi, Node, Recovery Phrase, UTXO, Transaction Fee, Halving, SegWit, Taproot, Lightning Network) ([Issue #4687](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4687) · [PR #4688](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4688))
+- ₿ Modernization of the vocabulary glossary: 4 factual corrections (hash rate scale, private key storage methods, address reuse, USD threshold) and 9 new core terms (Satoshi, Node, Recovery Phrase, UTXO, Transaction Fee, Halving, SegWit, Taproot, Lightning Network) ([Issue #4687](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4687) · [PR #4688](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4688) — **merged**)
 
 **Scams page modernization**
 
-- ₿ Comprehensive 2026 update — modernize existing categories and add missing high-impact scam vectors ([Issue #4689](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4689) · [PR #4701](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4701))
+- ₿ Comprehensive 2026 update — modernize existing categories and add missing high-impact scam vectors ([Issue #4689](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4689) · [PR #4701](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4701) — **merged**)
+
+**Bitcoin Core page modernization**
+
+- ₿ Bitcoin Core page is 23 releases behind, including an unreflected wallet-loss security advisory — opened for maintainer discussion with four proposed paths forward ([Issue #4704](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4704))
 
 **Infrastructure**
 
 - ₿ Updated outdated `_config.yml` variables to reflect April 2026 blockchain state, including `bitcoin_datadir_gb` (350 → 733GB per YCharts data) ([PR #4668](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4668) — **merged**)
+
+**Documentation modernization**
+
+- ₿ Outdated references in `docs/assisting-with-translations.md` and `docs/become-a-contributor.md` — referencing historical maintainer contact and outdated processes ([Issue #4680](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4680))
 
 ---
 
@@ -147,6 +163,6 @@ Pull Requests:
 
 *"Don't Trust, Verify."*
 
-*Last updated: May 1, 2026*
+*Last updated: May 15, 2026*
 
 </div>
