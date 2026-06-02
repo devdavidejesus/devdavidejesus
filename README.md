@@ -80,9 +80,9 @@ Related PRs: [#4664](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4664) (
 
 **Exchange listings audit — April 2026**
 
-- ₿ Opened systematic exchange listings audit ([Master Issue #4684](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4684)) reviewing stale and discontinued exchange listings against primary sources (corporate acquisitions, SSL certificate status, DNS records, regulatory deprecations).
+- ₿ Conducted a systematic audit of exchange listings across two rounds, reviewing stale and discontinued exchanges against primary sources (corporate acquisitions, SSL certificate status, DNS records, regulatory deprecations). 8 listings removed in Round 1; 12 additional Pull Requests opened in Round 2.
 
-Pull Requests:
+**Round 1** — Pull Requests ([Master Issue #4684](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4684)):
 [#4685](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4685) (itBit — **merged**) ·
 [#4690](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4690) (Coinfloor — **merged**) ·
 [#4691](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4691) (Coinberry) ·
@@ -92,7 +92,19 @@ Pull Requests:
 [#4699](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4699) (Egera — **merged**) ·
 [#4700](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4700) (Bitybank rebrand — **merged**)
 
-**Round 2** in planning: additional stale exchange listings identified for review ([Issue #4715](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4715))
+**Round 2** — 12 Pull Requests opened for review against primary sources ([Master Issue #4715](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4715)):
+[#4730](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4730) (Kuna) ·
+[#4731](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4731) (Canadian Bitcoins) ·
+[#4738](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4738) (Kiwi-coin) ·
+[#4739](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4739) (ArgenBTC) ·
+[#4748](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4748) (Mine Digital) ·
+[#4749](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4749) (BitBay / Zonda) ·
+[#4750](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4750) (Volabit) ·
+[#4751](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4751) (PagCripto / Virtuati) ·
+[#4752](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4752) (Koinim) ·
+[#4753](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4753) (OKCoin → OKX) ·
+[#4754](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4754) (BitQuick) ·
+[#4755](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4755) (BtcBox)
 
 **Wallet listings & reviews**
 
