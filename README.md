@@ -33,6 +33,8 @@ Building practical backend solutions with clean code. Currently exploring the in
 
 ### Featured project — btc-toolkit
 
+[![Tests](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml)
+
 A Bitcoin tooling project designed around two principles: **zero external dependencies** (Python stdlib only) and **no Bitcoin Core required** (uses public APIs).
 
 **Phase 1 — OP_RETURN Reader CLI** (shipped)
@@ -54,50 +56,49 @@ A Bitcoin tooling project designed around two principles: **zero external depend
 
 **Translations**
 
-- ₿ PT-BR Bitcoin whitepaper — 12 verified errors corrected; updates applied to the site by maintainer @Cobra-Bitcoin ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
+- ₿ PT-BR Bitcoin whitepaper — 12 verified errors corrected; corrections applied to the live site by maintainer @Cobra-Bitcoin (PR closed, content applied directly) ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
 - ₿ PT-BR website translation (`_translations/pt_BR.yml`) — 14 verified errors corrected ([Issue #4658](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4658) · [PR #4659](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4659) — **merged**)
 - ₿ PT (European Portuguese) Bitcoin whitepaper — 13 verified errors documented for review ([Issue #4656](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4656) · [PR #4657](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4657))
 
 **Wallet section audit — April 2026**
 
-- ₿ Conducted a systematic audit of all 27 listed wallets against primary sources (manufacturer announcements, app stores, repository activity, official documentation). Published 13 evidence-based Issues covering discontinued hardware wallets, outdated repository links, broken distribution links, rebranding updates, product splits, and configuration variables ([Master Issue #4662](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4662))
+- ₿ Conducted a systematic audit of all 27 listed wallets against primary sources (manufacturer announcements, app stores, repository activity, official documentation). Published evidence-based Issues covering discontinued hardware wallets, outdated repository links, broken distribution links, rebranding updates, and product splits ([Master Issue #4662](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4662))
 
-Individual Issues: 
-[#4664](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4664) · 
-[#4665](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4665) · 
-[#4668](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4668) · 
-[#4669](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4669) · 
-[#4670](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4670) · 
-[#4672](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4672) · 
-[#4673](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4673) · 
-[#4674](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4674) · 
-[#4677](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4677) · 
-[#4681](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4681) · 
-[#4683](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4683) · 
-[#4702](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4702) · 
+Individual Issues:
+[#4669](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4669) ·
+[#4670](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4670) ·
+[#4672](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4672) ·
+[#4673](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4673) ·
+[#4674](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4674) ·
+[#4677](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4677) ·
+[#4681](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4681) ·
+[#4683](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4683) ·
+[#4702](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4702) ·
 [#4703](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4703)
+
+Related PRs: [#4664](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4664) (Trezor One / Model T) · [#4665](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4665) (Ledger Nano S)
 
 **Exchange listings audit — April 2026**
 
 - ₿ Opened systematic exchange listings audit ([Master Issue #4684](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4684)) reviewing stale and discontinued exchange listings against primary sources (corporate acquisitions, SSL certificate status, DNS records, regulatory deprecations).
 
 Pull Requests:
-[#4685](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4685) (itBit — **merged**) · 
-[#4690](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4690) (Coinfloor — **merged**) · 
-[#4691](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4691) (Coinberry) · 
-[#4692](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4692) (CoinSmart — **merged**) · 
-[#4693](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4693) (Bitvo — **merged**) · 
-[#4694](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4694) (AnyCoin Direct — **merged**) · 
-[#4699](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4699) (Egera — **merged**) · 
+[#4685](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4685) (itBit — **merged**) ·
+[#4690](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4690) (Coinfloor — **merged**) ·
+[#4691](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4691) (Coinberry) ·
+[#4692](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4692) (CoinSmart — **merged**) ·
+[#4693](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4693) (Bitvo — **merged**) ·
+[#4694](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4694) (AnyCoin Direct — **merged**) ·
+[#4699](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4699) (Egera — **merged**) ·
 [#4700](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4700) (Bitybank rebrand — **merged**)
 
 **Round 2** in planning: additional stale exchange listings identified for review ([Issue #4715](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4715))
 
 **Wallet listings & reviews**
 
-- ₿ Formal review of BlueWallet against current listing criteria, following the project's established review template ([PR #4679 comment](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4679))
-- ₿ Technical analysis of BULL by Bull Bitcoin against historical policy on sidechains and default-behavior evaluation ([PR #4555 comment](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4555))
 - ₿ Proposed addition of Phoenix wallet listing — hands-on iOS testing, full criteria audit ([PR #4714](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4714))
+- ₿ Proposed addition of Nunchuk wallet listing ([PR #4760](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4760))
+- ₿ Proposed addition of Cove wallet listing ([PR #4759](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4759))
 
 **Vocabulary glossary modernization**
 
@@ -163,6 +164,6 @@ Pull Requests:
 
 *"Don't Trust, Verify."*
 
-*Last updated: May 15, 2026*
+*Last updated: June 2026*
 
 </div>
