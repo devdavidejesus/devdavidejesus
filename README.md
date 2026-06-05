@@ -57,7 +57,7 @@ A Bitcoin tooling project designed around two principles: **zero external depend
 **Translations**
 
 - ₿ PT-BR Bitcoin whitepaper — 12 verified errors corrected; corrections applied to the live site by maintainer @Cobra-Bitcoin (PR closed, content applied directly) ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
-- ₿ PT-BR website translation (`_translations/pt_BR.yml`) — 14 verified errors corrected ([Issue #4658](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4658) · [PR #4659](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4659) — **merged**)
+- ₿ PT-BR website translation (`_translations/pt_BR.yml`) — 14 verified errors corrected ([Issue #4658](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4658) · [PR #4659](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4659))
 - ₿ PT (European Portuguese) Bitcoin whitepaper — 13 verified errors documented for review ([Issue #4656](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4656) · [PR #4657](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4657))
 
 **Wallet section audit — April 2026**
@@ -83,14 +83,14 @@ Related PRs: [#4664](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4664) (
 - ₿ Conducted a systematic audit of exchange listings across two rounds, reviewing stale and discontinued exchanges against primary sources (corporate acquisitions, SSL certificate status, DNS records, regulatory deprecations). 8 listings removed in Round 1; 12 additional Pull Requests opened in Round 2.
 
 **Round 1** — Pull Requests ([Master Issue #4684](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4684)):
-[#4685](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4685) (itBit — **merged**) ·
-[#4690](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4690) (Coinfloor — **merged**) ·
+[#4685](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4685) (itBit) ·
+[#4690](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4690) (Coinfloor) ·
 [#4691](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4691) (Coinberry) ·
-[#4692](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4692) (CoinSmart — **merged**) ·
-[#4693](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4693) (Bitvo — **merged**) ·
-[#4694](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4694) (AnyCoin Direct — **merged**) ·
-[#4699](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4699) (Egera — **merged**) ·
-[#4700](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4700) (Bitybank rebrand — **merged**)
+[#4692](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4692) (CoinSmart) ·
+[#4693](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4693) (Bitvo) ·
+[#4694](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4694) (AnyCoin Direct) ·
+[#4699](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4699) (Egera) ·
+[#4700](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4700) (Bitybank rebrand)
 
 **Round 2** — 12 Pull Requests opened for review against primary sources ([Master Issue #4715](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4715)):
 [#4730](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4730) (Kuna) ·
@@ -114,19 +114,19 @@ Related PRs: [#4664](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4664) (
 
 **Vocabulary glossary modernization**
 
-- ₿ Modernization of the vocabulary glossary: 4 factual corrections (hash rate scale, private key storage methods, address reuse, USD threshold) and 9 new core terms (Satoshi, Node, Recovery Phrase, UTXO, Transaction Fee, Halving, SegWit, Taproot, Lightning Network) ([Issue #4687](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4687) · [PR #4688](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4688) — **merged**)
+- ₿ Modernization of the vocabulary glossary: 4 factual corrections (hash rate scale, private key storage methods, address reuse, USD threshold) and 9 new core terms (Satoshi, Node, Recovery Phrase, UTXO, Transaction Fee, Halving, SegWit, Taproot, Lightning Network) ([Issue #4687](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4687) · [PR #4688](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4688))
 
 **Scams page modernization**
 
-- ₿ Comprehensive 2026 update — modernize existing categories and add missing high-impact scam vectors ([Issue #4689](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4689) · [PR #4701](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4701) — **merged**)
+- ₿ Comprehensive 2026 update — modernize existing categories and add missing high-impact scam vectors ([Issue #4689](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4689) · [PR #4701](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4701))
 
 **Bitcoin Core page modernization**
 
-- ₿ Bitcoin Core page is 23 releases behind, including an unreflected wallet-loss security advisory — opened for maintainer discussion with four proposed paths forward ([Issue #4704](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4704))
+- ₿ Bitcoin Core page is 23 releases behind, including an unreflected wallet-loss security advisory — opened for maintainer discussion with four proposed paths forward ([Issue #4704](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4704) · [PR #4746](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4746))
 
 **Infrastructure**
 
-- ₿ Updated outdated `_config.yml` variables to reflect April 2026 blockchain state, including `bitcoin_datadir_gb` (350 → 733GB per YCharts data) ([PR #4668](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4668) — **merged**)
+- ₿ Updated outdated `_config.yml` variables to reflect April 2026 blockchain state, including `bitcoin_datadir_gb` (350 → 733GB per YCharts data) ([PR #4668](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4668))
 
 **Documentation modernization**
 
