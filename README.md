@@ -130,7 +130,7 @@ Related PRs: [#4664](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4664) (
 
 **Documentation modernization**
 
-- ₿ Outdated references in `docs/assisting-with-translations.md` and `docs/become-a-contributor.md` — referencing historical maintainer contact and outdated processes ([Issue #4680](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4680))
+- ₿ Outdated references in `docs/assisting-with-translations.md` and `docs/become-a-contributor.md` — referencing historical maintainer contact and outdated processes ([Issue #4680](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4680) · [PR #4764](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4764))
 
 ---
 
