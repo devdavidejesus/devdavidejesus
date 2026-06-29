@@ -2,180 +2,82 @@
 
 # Hey, I'm Davi de Jesus 🇧🇷
 
-**Python Developer · Django · Flask · Bitcoin Ecosystem**
-
-Building practical backend solutions with clean code. Currently exploring the intersection of web development and the Bitcoin protocol stack.
+**Python Developer building open-source tools for the Bitcoin ecosystem.**
 
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xdavidejesus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidejesus)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devdavidejesus)
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)
 
 </div>
 
----
-
-### About me
-
-- Python developer specializing in **Django** and **Flask** for web backends, APIs, and automation
-- Working knowledge of **JavaScript, HTML & CSS** for frontend integration
-- Contributing to the **Bitcoin** ecosystem — interested in protocol-level architecture (OP_RETURN, SegWit, Taproot)
-- Python training through **IME-USP** · Currently studying **FullStack Development** at **SENAI**
-- Approach: evidence-based contributions, verifiable sources, code-first verification
-
----
-
-### Currently working on
-
-- ₿ **Quality Assurance Initiative at [bitcoin.org](https://github.com/bitcoin-dot-org/Bitcoin.org)** — Systematic audits across multiple site sections: wallet listings, exchange listings, vocabulary glossary, scams page, Bitcoin Core release tracking, and formal wallet reviews. All findings backed by primary sources and reproducible verification scripts.
-- ₿ **Developing [btc-toolkit](https://github.com/devdavidejesus/btc-toolkit)** — A growing collection of Bitcoin CLI tools written in pure Python. Zero external dependencies, no Bitcoin Core required. Phase 1 (OP_RETURN decoder) shipped; Phase 2 (Address Balance Checker) in planning.
-
----
+<br>
 
 ### Featured project — btc-toolkit
 
 [![Tests](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml)
 
-A Bitcoin tooling project designed around two principles: **zero external dependencies** (Python stdlib only) and **no Bitcoin Core required** (uses public APIs).
+A Bitcoin tooling project built around two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by public Bitcoin APIs).
 
 **Phase 1 — OP_RETURN Reader CLI** (shipped)
-- 18 unit tests, GitHub Actions CI across Python 3.10–3.13
+- Python 3.10–3.13 support
+- 18 unit tests
+- GitHub Actions CI
 - Decodes OP_RETURN messages from any Bitcoin transaction
-- Built on Mempool.space public API
+- Powered by the Mempool.space public API
+
+```text
+$ op-return-reader 3ef1d49a3146bc30368de0d17c182c78497e61398572d86f5fbd7806ca47332e
+
+  btc-toolkit v0.1.0 · Mempool.space API
+
+  ✓ Found 1 OP_RETURN output(s):
+
+  Output #1
+  ├─ Size:     32 bytes
+  ├─ Hex:      ff7f818a8090f0d3b682808884b0b08bc02eff7fd184dad7ef94a4e0a1f98f01
+  └─ Message:  (binary data — not UTF-8 text)
+```
 
 **Roadmap**
-- Phase 2 — Address Balance Checker (P2PKH, P2SH, Bech32, Taproot)
-- Phase 3 — Fee Estimator
-- Phase 4 — Block Info Explorer
-- Phase 5 — UTXO Set Inspector
+- Phase 2 — Address Balance Checker · inspect balances for Legacy, SegWit, and Taproot addresses
+- Phase 3 — Fee Estimator · estimate optimal fees from mempool conditions
+- Phase 4 — Block Info Explorer · retrieve block metadata and transaction summaries
+- Phase 5 — UTXO Set Inspector · inspect spendable outputs for any address
 
 → [github.com/devdavidejesus/btc-toolkit](https://github.com/devdavidejesus/btc-toolkit)
 
----
+<br>
 
 ### Open-source contributions — bitcoin.org
 
-**Translations**
+Collaborator helping maintain one of the Bitcoin ecosystem's most visited reference websites — auditing wallet and exchange listings, modernizing core content, and correcting whitepaper translations, each change verified against primary sources.
 
-- ₿ PT-BR Bitcoin whitepaper — 12 verified errors corrected; corrections applied to the live site by maintainer @Cobra-Bitcoin (PR closed, content applied directly) ([Issue #4650](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4650) · [PR #4652](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4652))
-- ₿ PT-BR website translation (`_translations/pt_BR.yml`) — 14 verified errors corrected ([Issue #4658](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4658) · [PR #4659](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4659))
-- ₿ PT (European Portuguese) Bitcoin whitepaper — 13 verified errors documented for review ([Issue #4656](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4656) · [PR #4657](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4657))
+[All pull requests](https://github.com/bitcoin-dot-org/Bitcoin.org/pulls?q=is%3Apr+author%3Adevdavidejesus) · [All issues](https://github.com/bitcoin-dot-org/Bitcoin.org/issues?q=is%3Aissue+author%3Adevdavidejesus)
 
-**Wallet section audit — April 2026**
-
-- ₿ Conducted a systematic audit of all 27 listed wallets against primary sources (manufacturer announcements, app stores, repository activity, official documentation). Published evidence-based Issues covering discontinued hardware wallets, outdated repository links, broken distribution links, rebranding updates, and product splits ([Master Issue #4662](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4662))
-
-Individual Issues:
-[#4669](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4669) ·
-[#4670](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4670) ·
-[#4672](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4672) ·
-[#4673](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4673) ·
-[#4674](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4674) ·
-[#4677](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4677) ·
-[#4681](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4681) ·
-[#4683](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4683) ·
-[#4702](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4702) ·
-[#4703](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4703)
-
-Related PRs: [#4664](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4664) (Trezor One / Model T) · [#4665](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4665) (Ledger Nano S)
-
-**Exchange listings audit — April 2026**
-
-- ₿ Conducted a systematic audit of exchange listings across two rounds, reviewing stale and discontinued exchanges against primary sources (corporate acquisitions, SSL certificate status, DNS records, regulatory deprecations). 8 listings removed in Round 1; 12 additional Pull Requests opened in Round 2.
-
-**Round 1** — Pull Requests ([Master Issue #4684](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4684)):
-[#4685](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4685) (itBit) ·
-[#4690](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4690) (Coinfloor) ·
-[#4691](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4691) (Coinberry) ·
-[#4692](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4692) (CoinSmart) ·
-[#4693](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4693) (Bitvo) ·
-[#4694](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4694) (AnyCoin Direct) ·
-[#4699](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4699) (Egera) ·
-[#4700](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4700) (Bitybank rebrand)
-
-**Round 2** — 12 Pull Requests opened for review against primary sources ([Master Issue #4715](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4715)):
-[#4730](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4730) (Kuna) ·
-[#4731](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4731) (Canadian Bitcoins) ·
-[#4738](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4738) (Kiwi-coin) ·
-[#4739](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4739) (ArgenBTC) ·
-[#4748](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4748) (Mine Digital) ·
-[#4749](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4749) (BitBay / Zonda) ·
-[#4750](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4750) (Volabit) ·
-[#4751](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4751) (PagCripto / Virtuati) ·
-[#4752](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4752) (Koinim) ·
-[#4753](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4753) (OKCoin → OKX) ·
-[#4754](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4754) (BitQuick) ·
-[#4755](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4755) (BtcBox)
-
-**Wallet listings & reviews**
-
-- ₿ Proposed addition of Phoenix wallet listing — hands-on iOS testing, full criteria audit ([PR #4714](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4714))
-- ₿ Proposed addition of Nunchuk wallet listing ([PR #4760](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4760))
-- ₿ Proposed addition of Cove wallet listing ([PR #4759](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4759))
-
-**Vocabulary glossary modernization**
-
-- ₿ Modernization of the vocabulary glossary: 4 factual corrections (hash rate scale, private key storage methods, address reuse, USD threshold) and 9 new core terms (Satoshi, Node, Recovery Phrase, UTXO, Transaction Fee, Halving, SegWit, Taproot, Lightning Network) ([Issue #4687](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4687) · [PR #4688](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4688))
-
-**Scams page modernization**
-
-- ₿ Comprehensive 2026 update — modernize existing categories and add missing high-impact scam vectors ([Issue #4689](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4689) · [PR #4701](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4701))
-
-**Bitcoin Core page modernization**
-
-- ₿ Bitcoin Core page is 23 releases behind, including an unreflected wallet-loss security advisory — opened for maintainer discussion with four proposed paths forward ([Issue #4704](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4704) · [PR #4746](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4746))
-
-**Infrastructure**
-
-- ₿ Updated outdated `_config.yml` variables to reflect April 2026 blockchain state, including `bitcoin_datadir_gb` (350 → 733GB per YCharts data) ([PR #4668](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4668))
-
-**Documentation modernization**
-
-- ₿ Outdated references in `docs/assisting-with-translations.md` and `docs/become-a-contributor.md` — referencing historical maintainer contact and outdated processes ([Issue #4680](https://github.com/bitcoin-dot-org/Bitcoin.org/issues/4680) · [PR #4764](https://github.com/bitcoin-dot-org/Bitcoin.org/pull/4764))
-
----
+<br>
 
 ### Tech stack
-
-![Bitcoin Ecosystem](https://img.shields.io/badge/Bitcoin_Ecosystem-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-
-**Backend — Python ecosystem**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools & infrastructure**
-
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+
+<br>
 
 ---
 
-### GitHub stats
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-chi-eight.vercel.app/api?username=devdavidejesus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Stats)
-
-![Top Languages](https://github-readme-stats-chi-eight.vercel.app/api/top-langs/?username=devdavidejesus&layout=donut&theme=tokyonight&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/devdavidejesus/devdavidejesus/output/github-snake-dark.svg)
 
-</div>
-
----
-
-<div align="center">
-
 *"Don't Trust, Verify."*
 
-*Last updated: June 2026*
+[![Bitcoin block height](https://img.shields.io/badge/dynamic/json?url=https://mempool.space/api/blocks/tip/height&query=$&label=%E2%82%BF%20block%20height&color=F7931A&style=flat-square&logo=bitcoin&logoColor=white)](https://mempool.space)
 
 </div>
