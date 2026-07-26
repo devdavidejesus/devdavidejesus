@@ -16,7 +16,7 @@
 [![PyPI](https://img.shields.io/pypi/v/btc-toolkit?label=PyPI&color=F7931A&logo=pypi&logoColor=white)](https://pypi.org/project/btc-toolkit/)
 [![Tests](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml)
 
-A unified Bitcoin CLI, **v1.0.0 — full roadmap shipped**. Built on two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by the Mempool.space public API).
+A unified Bitcoin CLI, **full roadmap shipped — and growing**. Built on two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by the Mempool.space public API).
 
 ```bash
 pip install btc-toolkit
@@ -25,12 +25,13 @@ pip install btc-toolkit
 | Command | What it does |
 |---|---|
 | `btc-toolkit opreturn <txid>` | Decode OP_RETURN messages from any transaction |
+| `btc-toolkit tx <txid>` | Full transaction details: status, fees, size, I/O, RBF |
 | `btc-toolkit balance <address>` | Confirmed + unconfirmed balance, all address types |
 | `btc-toolkit fees` | Live fee tiers (sat/vB) + mempool backlog |
 | `btc-toolkit block <height\|hash\|latest>` | Block metadata, from genesis to chain tip |
 | `btc-toolkit utxo <address>` | Unspent outputs sorted by value, with filters |
 
-62 unit tests · CI across Python 3.10–3.13 · every claim verifiable on-chain
+71 unit tests · CI across Python 3.10–3.13 · every claim verifiable on-chain
 
 ```text
 $ btc-toolkit block 0
