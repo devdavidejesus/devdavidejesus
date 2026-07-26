@@ -13,10 +13,14 @@
 
 ### Featured project — btc-toolkit
 
+[![PyPI](https://img.shields.io/pypi/v/btc-toolkit?label=PyPI&color=F7931A&logo=pypi&logoColor=white)](https://pypi.org/project/btc-toolkit/)
 [![Tests](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml)
-[![Version](https://img.shields.io/github/v/tag/devdavidejesus/btc-toolkit?label=version&color=F7931A)](https://github.com/devdavidejesus/btc-toolkit/tags)
 
-A unified Bitcoin CLI built around two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by the Mempool.space public API).
+A unified Bitcoin CLI, **v1.0.0 — full roadmap shipped**. Built on two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by the Mempool.space public API).
+
+```bash
+pip install btc-toolkit
+```
 
 | Command | What it does |
 |---|---|
@@ -24,13 +28,14 @@ A unified Bitcoin CLI built around two principles: **zero external dependencies*
 | `btc-toolkit balance <address>` | Confirmed + unconfirmed balance, all address types |
 | `btc-toolkit fees` | Live fee tiers (sat/vB) + mempool backlog |
 | `btc-toolkit block <height\|hash\|latest>` | Block metadata, from genesis to chain tip |
+| `btc-toolkit utxo <address>` | Unspent outputs sorted by value, with filters |
 
-54 unit tests · CI across Python 3.10–3.13 · every claim verifiable on-chain
+62 unit tests · CI across Python 3.10–3.13 · every claim verifiable on-chain
 
 ```text
 $ btc-toolkit block 0
 
-  btc-toolkit v0.4.0 · block · Mempool.space API
+  btc-toolkit v1.0.0 · block · Mempool.space API
 
   Block #0
 
@@ -42,9 +47,7 @@ $ btc-toolkit block 0
   └─ Previous:    (none — genesis block)
 ```
 
-**Next up:** Phase 5 — UTXO Set Inspector, closing the roadmap.
-
-→ [github.com/devdavidejesus/btc-toolkit](https://github.com/devdavidejesus/btc-toolkit)
+→ [github.com/devdavidejesus/btc-toolkit](https://github.com/devdavidejesus/btc-toolkit) · [pypi.org/project/btc-toolkit](https://pypi.org/project/btc-toolkit/)
 
 <br>
 
