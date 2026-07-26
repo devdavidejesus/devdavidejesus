@@ -9,40 +9,40 @@
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)
 
 </div>
-
 <br>
 
 ### Featured project — btc-toolkit
 
 [![Tests](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml)
+[![Version](https://img.shields.io/github/v/tag/devdavidejesus/btc-toolkit?label=version&color=F7931A)](https://github.com/devdavidejesus/btc-toolkit/tags)
 
-A Bitcoin tooling project built around two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by public Bitcoin APIs).
+A unified Bitcoin CLI built around two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by the Mempool.space public API).
 
-**Phase 1 — OP_RETURN Reader CLI** (shipped)
-- Python 3.10–3.13 support
-- 18 unit tests
-- GitHub Actions CI
-- Decodes OP_RETURN messages from any Bitcoin transaction
-- Powered by the Mempool.space public API
+| Command | What it does |
+|---|---|
+| `btc-toolkit opreturn <txid>` | Decode OP_RETURN messages from any transaction |
+| `btc-toolkit balance <address>` | Confirmed + unconfirmed balance, all address types |
+| `btc-toolkit fees` | Live fee tiers (sat/vB) + mempool backlog |
+| `btc-toolkit block <height\|hash\|latest>` | Block metadata, from genesis to chain tip |
+
+54 unit tests · CI across Python 3.10–3.13 · every claim verifiable on-chain
 
 ```text
-$ op-return-reader 3ef1d49a3146bc30368de0d17c182c78497e61398572d86f5fbd7806ca47332e
+$ btc-toolkit block 0
 
-  btc-toolkit v0.1.0 · Mempool.space API
+  btc-toolkit v0.4.0 · block · Mempool.space API
 
-  ✓ Found 1 OP_RETURN output(s):
+  Block #0
 
-  Output #1
-  ├─ Size:     32 bytes
-  ├─ Hex:      ff7f818a8090f0d3b682808884b0b08bc02eff7fd184dad7ef94a4e0a1f98f01
-  └─ Message:  (binary data — not UTF-8 text)
+  ├─ Hash:        000000000019d668...0a8ce26f
+  ├─ Mined:       2009-01-03 18:15:05 UTC
+  ├─ Txs:         1
+  ├─ Difficulty:  1
+  ├─ Nonce:       2083236893
+  └─ Previous:    (none — genesis block)
 ```
 
-**Roadmap**
-- Phase 2 — Address Balance Checker · inspect balances for Legacy, SegWit, and Taproot addresses
-- Phase 3 — Fee Estimator · estimate optimal fees from mempool conditions
-- Phase 4 — Block Info Explorer · retrieve block metadata and transaction summaries
-- Phase 5 — UTXO Set Inspector · inspect spendable outputs for any address
+**Next up:** Phase 5 — UTXO Set Inspector, closing the roadmap.
 
 → [github.com/devdavidejesus/btc-toolkit](https://github.com/devdavidejesus/btc-toolkit)
 
