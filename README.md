@@ -30,8 +30,9 @@ pip install btc-toolkit
 | `btc-toolkit fees` | Live fee tiers (sat/vB) + mempool backlog |
 | `btc-toolkit block <height\|hash\|latest>` | Block metadata, from genesis to chain tip |
 | `btc-toolkit utxo <address>` | Unspent outputs sorted by value, with filters |
+| `btc-toolkit address <address>` | Aggregated overview: type, balance, lifetime totals |
 
-71 unit tests · CI across Python 3.10–3.13 · every claim verifiable on-chain
+87 unit tests · CI across Python 3.10–3.13 · every claim verifiable on-chain
 
 ```text
 $ btc-toolkit block 0
