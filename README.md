@@ -31,6 +31,7 @@ pip install btc-toolkit
 | `btc-toolkit block <height\|hash\|latest>` | Block metadata, from genesis to chain tip |
 | `btc-toolkit utxo <address>` | Unspent outputs sorted by value, with filters |
 | `btc-toolkit address <address>` | Aggregated overview: type, balance, lifetime totals |
+| `btc-toolkit address <address>` | Aggregated overview: type, balance, lifetime totals |
 
 87 unit tests · CI across Python 3.10–3.13 · every claim verifiable on-chain
 
