@@ -16,7 +16,7 @@
 [![PyPI](https://img.shields.io/pypi/v/btc-toolkit?label=PyPI&color=F7931A&logo=pypi&logoColor=white)](https://pypi.org/project/btc-toolkit/)
 [![Tests](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml)
 
-A unified Bitcoin CLI, **full roadmap shipped — and growing**. Built on two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by the Mempool.space public API).
+A unified Bitcoin CLI, **full roadmap shipped — and growing**. Built on two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by the Mempool.space public API — or your own node via `--api-url`). Scriptable end to end: stdin, batch files, JSON Lines.
 
 ```bash
 pip install btc-toolkit
@@ -37,8 +37,6 @@ Fully tested · CI across Python 3.10–3.13 · every claim verifiable on-chain
 ```text
 $ btc-toolkit block 0
 
-  btc-toolkit v1.0.0 · block · Mempool.space API
-
   Block #0
 
   ├─ Hash:        000000000019d668...0a8ce26f
@@ -50,6 +48,12 @@ $ btc-toolkit block 0
 ```
 
 → [github.com/devdavidejesus/btc-toolkit](https://github.com/devdavidejesus/btc-toolkit) · [pypi.org/project/btc-toolkit](https://pypi.org/project/btc-toolkit/)
+
+<br>
+
+### Writing
+
+**[I Read a $320M Ransom Negotiation From My Terminal](https://dev.to/devdavidejesus/i-read-a-320m-ransom-negotiation-from-my-terminal-1159)** — the Liquid Network drain was negotiated on-chain via OP_RETURN. Every message decoded with btc-toolkit, every transaction ID included, so you can verify each word yourself.
 
 <br>
 
