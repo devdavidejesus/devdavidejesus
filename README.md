@@ -85,6 +85,8 @@ Collaborator helping maintain one of the Bitcoin ecosystem's most visited refere
 
 ![Snake animation](https://raw.githubusercontent.com/devdavidejesus/devdavidejesus/output/github-snake-dark.svg)
 
+*If my open-source work is useful to you, you can [support btc-toolkit](https://github.com/devdavidejesus/btc-toolkit#support).*
+
 *"Don't Trust, Verify."*
 
 [![Bitcoin block height](https://img.shields.io/badge/dynamic/json?url=https://mempool.space/api/blocks/tip/height&query=$&label=%E2%82%BF%20block%20height&color=F7931A&style=flat-square&logo=bitcoin&logoColor=white)](https://mempool.space)
