@@ -15,6 +15,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/btc-toolkit?label=PyPI&color=F7931A&logo=pypi&logoColor=white)](https://pypi.org/project/btc-toolkit/)
 [![Tests](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14966/badge)](https://www.bestpractices.dev/projects/14966)
 
 A unified Bitcoin CLI, **full roadmap shipped — and growing**. Built on two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by the Mempool.space public API — or your own node via `--api-url`). Scriptable end to end: stdin, batch files, JSON Lines.
 
