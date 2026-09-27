@@ -32,7 +32,7 @@ pip install btc-toolkit
 | `btc-toolkit utxo <address>` | Unspent outputs sorted by value, with filters |
 | `btc-toolkit address <address>` | Aggregated overview: type, balance, lifetime totals |
 
-Fully tested · CI across Python 3.10–3.13 · every claim verifiable on-chain
+Fully tested · CI on Linux, macOS and Windows, Python 3.10+ · signed provenance on every release · every claim verifiable on-chain
 
 ```text
 $ btc-toolkit block 0
