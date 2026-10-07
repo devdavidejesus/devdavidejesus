@@ -33,7 +33,7 @@ pip install btc-toolkit
 | `btc-toolkit utxo <address>` | Unspent outputs sorted by value, with filters |
 | `btc-toolkit address <address>` | Aggregated overview: type, balance, lifetime totals |
 
-Fully tested · CI on Linux, macOS and Windows, Python 3.10+ · signed provenance on every release · every claim verifiable on-chain
+Coverage-gated tests · CI on Linux, macOS and Windows · signed provenance since v1.5.0 · every claim verifiable on-chain
 
 ```text
 $ btc-toolkit block 0
@@ -43,6 +43,8 @@ $ btc-toolkit block 0
   ├─ Hash:        000000000019d668...0a8ce26f
   ├─ Mined:       2009-01-03 18:15:05 UTC
   ├─ Txs:         1
+  ├─ Size:        0.00 MB (285 bytes)
+  ├─ Weight:      1,140 WU
   ├─ Difficulty:  1
   ├─ Nonce:       2083236893
   └─ Previous:    (none — genesis block)
@@ -76,6 +78,9 @@ Collaborator helping maintain one of the Bitcoin ecosystem's most visited refere
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 
 <br>
