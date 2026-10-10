@@ -21,6 +21,8 @@ A unified Bitcoin CLI, **full roadmap shipped — and growing**. Built on two pr
 
 ```bash
 pip install btc-toolkit
+# or, on macOS and Linux
+brew install devdavidejesus/tap/btc-toolkit
 ```
 
 | Command | What it does |
@@ -55,6 +57,8 @@ $ btc-toolkit block 0
 <br>
 
 ### Writing
+
+**[49 Messages to a Thief](https://dev.to/devdavidejesus/49-messages-to-a-thief-what-people-wrote-to-the-coldcard-hackers-bitcoin-wallet-l1n)** — the Coldcard hacker's wallet holds 562 BTC and has received 49 on-chain messages, from pleas to a 2,857-byte essay. Every quote checked against the chain with btc-toolkit, with the script to reproduce it.
 
 **[I Read a $320M Ransom Negotiation From My Terminal](https://dev.to/devdavidejesus/i-read-a-320m-ransom-negotiation-from-my-terminal-1159)** — the Liquid Network drain was negotiated on-chain via OP_RETURN. Every message decoded with btc-toolkit, every transaction ID included, so you can verify each word yourself.
 
