@@ -17,7 +17,7 @@
 [![Tests](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/devdavidejesus/btc-toolkit/actions/workflows/tests.yml)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14966/badge)](https://www.bestpractices.dev/projects/14966)
 
-A unified Bitcoin CLI, **full roadmap shipped — and growing**. Built on two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by the Mempool.space public API — or your own node via `--api-url`). Scriptable end to end: stdin, batch files, JSON Lines.
+A unified Bitcoin CLI, **full roadmap shipped — and growing**. Built on two principles: **zero external dependencies** (Python standard library only) and **no Bitcoin Core required** (powered by the Mempool.space public API — or your own Mempool instance via `--api-url`). Scriptable end to end: stdin, batch files, JSON Lines.
 
 ```bash
 pip install btc-toolkit
@@ -28,14 +28,14 @@ brew install devdavidejesus/tap/btc-toolkit
 | Command | What it does |
 |---|---|
 | `btc-toolkit opreturn <txid>` | Decode OP_RETURN messages from any transaction |
-| `btc-toolkit tx <txid>` | Full transaction details: status, fees, size, I/O, RBF |
+| `btc-toolkit tx <txid>` | Transaction details: status, fees, size, input/output totals, RBF |
 | `btc-toolkit balance <address>` | Confirmed + unconfirmed balance, all address types |
 | `btc-toolkit fees` | Live fee tiers (sat/vB) + mempool backlog |
 | `btc-toolkit block <height\|hash\|latest>` | Block metadata, from genesis to chain tip |
-| `btc-toolkit utxo <address>` | Unspent outputs sorted by value, with filters |
+| `btc-toolkit utxo <address>` | Unspent outputs sorted by value, with a confirmed-only filter |
 | `btc-toolkit address <address>` | Aggregated overview: type, balance, lifetime totals |
 
-Coverage-gated tests · CI on Linux, macOS and Windows · signed provenance since v1.5.0 · every claim verifiable on-chain
+Tests with a 90% coverage floor · CI on Linux, macOS and Windows · signed provenance since v1.5.0 · every output checkable against the chain
 
 ```text
 $ btc-toolkit block 0
@@ -66,7 +66,7 @@ $ btc-toolkit block 0
 
 ### Open-source contributions — bitcoin.org
 
-Collaborator helping maintain one of the Bitcoin ecosystem's most visited reference websites — auditing wallet and exchange listings, modernizing core content, and correcting whitepaper translations, each change verified against primary sources.
+Collaborator with merge access helping maintain bitcoin.org, the Bitcoin reference website online since 2008 — auditing wallet and exchange listings, modernizing core content, and correcting whitepaper translations, each change verified against primary sources.
 
 [All pull requests](https://github.com/bitcoin-dot-org/Bitcoin.org/pulls?q=is%3Apr+author%3Adevdavidejesus) · [All issues](https://github.com/bitcoin-dot-org/Bitcoin.org/issues?q=is%3Aissue+author%3Adevdavidejesus)
 
