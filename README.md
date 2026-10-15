@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Davi de Jesus 🇧🇷
+# Hey, I'm Davi de Jesus 
 
 **Python Developer building open-source tools for the Bitcoin ecosystem.**
 
