@@ -87,8 +87,8 @@ Listed among the [developer tools](https://www.lopp.net/bitcoin-information/deve
 **[Electrum](https://github.com/spesmilo/electrum)** — Fixes and new features merged into the Electrum wallet: a `dscancel` command, clear errors for malformed CLI arguments, tests for CLI commands, and crash fixes in the Android (QML) app.<br>
 [Merged pull requests](https://github.com/spesmilo/electrum/pulls?q=is%3Apr+author%3Adevdavidejesus+is%3Amerged)
 
-**[Armory](https://github.com/goatpig/BitcoinArmory)** — Working with the maintainer on the 0.97 release: macOS build and GUI fixes, and concurrency fixes in the database server.<br>
-[All pull requests](https://github.com/goatpig/BitcoinArmory/pulls?q=is%3Apr+author%3Adevdavidejesus)
+**[Armory](https://github.com/goatpig/BitcoinArmory)** — Working with the maintainer on the 0.97 release: macOS build and GUI fixes, concurrency fixes in the database server, and bug reports on memory safety and offline signing.<br>
+[All pull requests](https://github.com/goatpig/BitcoinArmory/pulls?q=is%3Apr+author%3Adevdavidejesus) · [All issues](https://github.com/goatpig/BitcoinArmory/issues?q=is%3Aissue+author%3Adevdavidejesus)
 
 <br>
 
