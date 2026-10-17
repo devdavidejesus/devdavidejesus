@@ -7,6 +7,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/devdavidejesus)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devdavidejesus)
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)
+[![Donate Bitcoin](https://img.shields.io/badge/Donate-F7931A?style=flat-square&logo=bitcoin&logoColor=white)](https://github.com/devdavidejesus/btc-toolkit#support)
 
 </div>
 <br>
