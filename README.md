@@ -115,7 +115,10 @@ Listed on bitcoin.org's [Development page](https://bitcoin.org/en/development#mo
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/devdavidejesus/devdavidejesus/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devdavidejesus/devdavidejesus/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/devdavidejesus/devdavidejesus/output/github-snake.svg" alt="Snake animation"/>
+</picture>
 
 *If my open-source work is useful to you, you can [support btc-toolkit](https://github.com/devdavidejesus/btc-toolkit#support).*
 
