@@ -72,14 +72,6 @@ Listed on bitcoin.org's [Development page](https://bitcoin.org/en/development#mo
 
 <br>
 
-### Writing
-
-**[49 Messages to a Thief](https://dev.to/devdavidejesus/49-messages-to-a-thief-what-people-wrote-to-the-coldcard-hackers-bitcoin-wallet-l1n)** — the Coldcard hacker's wallet holds 562 BTC and has received 49 on-chain messages, from pleas to a 2,857-byte essay. Every quote checked against the chain with btc-toolkit, with the script to reproduce it.
-
-**[I Read a $320M Ransom Negotiation From My Terminal](https://dev.to/devdavidejesus/i-read-a-320m-ransom-negotiation-from-my-terminal-1159)** — the Liquid Network drain was negotiated on-chain via OP_RETURN. Every message decoded with btc-toolkit, every transaction ID included, so you can verify each word yourself.
-
-<br>
-
 ### Open-source contributions
 
 **[bitcoin.org](https://github.com/bitcoin-dot-org/Bitcoin.org)** — Collaborator with merge access helping maintain bitcoin.org, the Bitcoin reference website online since 2008 — auditing wallet and exchange listings, modernizing core content, and correcting whitepaper translations, each change verified against primary sources.<br>
@@ -88,14 +80,23 @@ Listed on bitcoin.org's [Development page](https://bitcoin.org/en/development#mo
 **[Electrum](https://github.com/spesmilo/electrum)** — Fixes and new features merged into the Electrum wallet: a `dscancel` command, clear errors for malformed CLI arguments, tests for CLI commands, and crash fixes in the Android (QML) app.<br>
 [Merged pull requests](https://github.com/spesmilo/electrum/pulls?q=is%3Apr+author%3Adevdavidejesus+is%3Amerged)
 
-**[Armory](https://github.com/goatpig/BitcoinArmory)** — Working with the maintainer on the 0.97 release: macOS build and GUI fixes, concurrency fixes in the database server, and bug reports on memory safety and offline signing.<br>
+**[Armory](https://github.com/goatpig/BitcoinArmory)** — 10 pull requests merged into the 0.97 release branch: macOS build and GUI fixes, memory-safety and concurrency fixes in the C++ code, and crash-safe wallet file compaction. Also reported further bugs, including in offline signing.<br>
 [All pull requests](https://github.com/goatpig/BitcoinArmory/pulls?q=is%3Apr+author%3Adevdavidejesus) · [All issues](https://github.com/goatpig/BitcoinArmory/issues?q=is%3Aissue+author%3Adevdavidejesus)
+
+<br>
+
+### Writing
+
+**[49 Messages to a Thief](https://dev.to/devdavidejesus/49-messages-to-a-thief-what-people-wrote-to-the-coldcard-hackers-bitcoin-wallet-l1n)** — the Coldcard hacker's wallet holds 562 BTC and has received 49 on-chain messages, from pleas to a 2,857-byte essay. Every quote checked against the chain with btc-toolkit, with the script to reproduce it.
+
+**[I Read a $320M Ransom Negotiation From My Terminal](https://dev.to/devdavidejesus/i-read-a-320m-ransom-negotiation-from-my-terminal-1159)** — the Liquid Network drain was negotiated on-chain via OP_RETURN. Every message decoded with btc-toolkit, every transaction ID included, so you can verify each word yourself.
 
 <br>
 
 ### Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
