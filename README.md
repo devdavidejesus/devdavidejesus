@@ -77,10 +77,10 @@ Listed on bitcoin.org's [Development page](https://bitcoin.org/en/development#mo
 **[bitcoin.org](https://github.com/bitcoin-dot-org/Bitcoin.org)** — Collaborator with merge access helping maintain bitcoin.org, the Bitcoin reference website online since 2008 — auditing wallet and exchange listings, modernizing core content, and correcting whitepaper translations, each change verified against primary sources.<br>
 [All pull requests](https://github.com/bitcoin-dot-org/Bitcoin.org/pulls?q=is%3Apr+author%3Adevdavidejesus) · [All issues](https://github.com/bitcoin-dot-org/Bitcoin.org/issues?q=is%3Aissue+author%3Adevdavidejesus)
 
-**[Electrum](https://github.com/spesmilo/electrum)** — Fixes and new features merged into the Electrum wallet: a `dscancel` command, clear errors for malformed CLI arguments, tests for CLI commands, and crash fixes in the Android (QML) app.<br>
+**[Electrum](https://github.com/spesmilo/electrum)** — Fixes and new features merged into the Electrum wallet, including a `dscancel` command, clear errors for malformed CLI arguments, tests for CLI commands, and crash fixes in the Android (QML) app.<br>
 [Merged pull requests](https://github.com/spesmilo/electrum/pulls?q=is%3Apr+author%3Adevdavidejesus+is%3Amerged)
 
-**[Armory](https://github.com/goatpig/BitcoinArmory)** — 10 pull requests merged into the 0.97 release branch: macOS build and GUI fixes, memory-safety and concurrency fixes in the C++ code, and crash-safe wallet file compaction. Also reported further bugs, including in offline signing.<br>
+**[Armory](https://github.com/goatpig/BitcoinArmory)** — Working with the maintainer on the 0.97 release, with fixes merged for the macOS build and GUI, memory safety and concurrency in the C++ code, and crash-safe wallet file compaction, plus bug reports, including in offline signing.<br>
 [All pull requests](https://github.com/goatpig/BitcoinArmory/pulls?q=is%3Apr+author%3Adevdavidejesus) · [All issues](https://github.com/goatpig/BitcoinArmory/issues?q=is%3Aissue+author%3Adevdavidejesus)
 
 <br>
