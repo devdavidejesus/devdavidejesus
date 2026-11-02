@@ -5,6 +5,7 @@
 **Python Developer building open-source tools for the Bitcoin ecosystem.**
 
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/devdavidejesus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidejesus)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devdavidejesus)
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:davidejesus.log@proton.me)
 [![Donate Bitcoin](https://img.shields.io/badge/Donate-F7931A?style=flat-square&logo=bitcoin&logoColor=white)](https://github.com/devdavidejesus/btc-toolkit#support)
@@ -82,6 +83,9 @@ Listed on bitcoin.org's [Development page](https://bitcoin.org/en/development#mo
 
 **[Armory](https://github.com/goatpig/BitcoinArmory)** — Working with the maintainer on the 0.97 release, with fixes merged for the macOS build and GUI, memory safety and concurrency in the C++ code, and crash-safe wallet file compaction, plus bug reports, including in offline signing.<br>
 [All pull requests](https://github.com/goatpig/BitcoinArmory/pulls?q=is%3Apr+author%3Adevdavidejesus) · [All issues](https://github.com/goatpig/BitcoinArmory/issues?q=is%3Aissue+author%3Adevdavidejesus)
+
+**[CPython](https://github.com/python/cpython)** — Fixes merged into Python itself: a thread-safety guard restored in the vendored mimalloc allocator (C), a race fixed in the multiprocessing tests, and corrected macOS build and installer documentation.<br>
+[Merged pull requests](https://github.com/python/cpython/pulls?q=is%3Apr+author%3Adevdavidejesus+is%3Amerged) · [All issues](https://github.com/python/cpython/issues?q=is%3Aissue+author%3Adevdavidejesus)
 
 <br>
 
