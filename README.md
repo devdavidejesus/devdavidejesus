@@ -67,7 +67,7 @@ $ btc-toolkit validate 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
   └─ Hash160:  62e907b15cbf27d5425399ebf6f0fb50ebb88f18
 ```
 
-Listed on bitcoin.org's [Development page](https://bitcoin.org/en/development#more), among the [developer tools](https://www.lopp.net/bitcoin-information/developer-tools.html) in Jameson Lopp's Bitcoin resources, and in [awesome-osint](https://github.com/jivoi/awesome-osint).
+Listed on bitcoin.org's [Development page](https://bitcoin.org/en/development#more), among the [developer tools](https://www.lopp.net/bitcoin-information/developer-tools.html) in Jameson Lopp's Bitcoin resources, and in [awesome-osint](https://github.com/jivoi/awesome-osint) and [awesome-blockchain](https://github.com/yjjnls/awesome-blockchain/blob/master/BitCoin/awesome.md#utilities).
 
 → [github.com/devdavidejesus/btc-toolkit](https://github.com/devdavidejesus/btc-toolkit) · [pypi.org/project/btc-toolkit](https://pypi.org/project/btc-toolkit/)
 
