@@ -56,7 +56,7 @@ pipx install btc-toolkit
 | `btc-toolkit decode <rawtx>` | Decode a raw transaction **offline** |
 | `btc-toolkit validate <address>` | Check an address **offline**: checksum, network, type, and nothing is sent |
 
-Python 3.11+ · 90% test coverage floor · fuzzed · CI on Linux, macOS and Windows · releases signed with Sigstore, with PEP 740 provenance
+Python 3.11+ · 90% test coverage floor · fuzzed · CI on Linux, macOS and Windows · releases signed with Sigstore, with PEP 740 provenance · immutable GitHub releases
 
 ```text
 $ btc-toolkit validate 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
